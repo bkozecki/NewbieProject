@@ -1,0 +1,61 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
+  width: 100%;
+}
+.whiteCont{
+  width: 400px;
+  height: 650px;
+  background-color: white;
+  margin: 15% auto 15% auto;
+  border-radius: 15px;
+  box-shadow: 0 0 2em lightgrey;
+}
+.blue{
+  height: auto;
+}
+
+.QR{
+  width: 90%;
+  height: auto;
+  margin: 20px 20px 0 20px;
+  border-radius: 15px;
+}
+.text{
+  width: 90%;
+  height: 320px;
+  margin: auto;
+}
+
+.bold{
+  font-weight: 700;
+  font-size: 1.7rem;
+  text-align: center;
+  margin-bottom: 0;
+
+}
+.notbold{
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  text-align:center;
+}
+.attribution{
+  text-align: center;
+  padding: 10px;
+
+}
+.firstlink{
+  color: black;
+}
+.firstlink:hover{
+  color: #fff;
+}
+.name{
+  color: black;
+}
+.name:hover{
+  color: #fff;
+}
